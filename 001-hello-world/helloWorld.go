@@ -25,7 +25,6 @@ func bar() {
 	fmt.Println("and the we exited")
 }
 
-
 //control flow:
 
 // (1) sequence
